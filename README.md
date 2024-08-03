@@ -20,3 +20,4 @@ GymApp adalah aplikasi manajemen keanggotaan gym yang memungkinkan pengguna untu
 - unduh installer dengan format jar
 - jalan kan perintah
   ``java -jar GymApp.jar``
+- login menggunakan username dan password `` daffa@gmail.com , daffa123``
