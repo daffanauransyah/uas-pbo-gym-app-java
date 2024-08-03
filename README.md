@@ -15,3 +15,8 @@ GymApp adalah aplikasi manajemen keanggotaan gym yang memungkinkan pengguna untu
 
 ### Installer Aplikasi
 ```https://github.com/daffanauransyah/uas-pbo-gym-app-java/blob/main/installer/GymApp-1.0.jar)```
+
+### Cara Menjalankan Aplikasi
+- unduh installer dengan format jar
+- jalan kan perintah
+  ``java -jar GymApp.jar``
